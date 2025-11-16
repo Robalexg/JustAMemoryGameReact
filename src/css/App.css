@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+
+
+.app{
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 5fr;
+  height: 100vh;
+  font-family: "Delius", system-ui;
+
+}

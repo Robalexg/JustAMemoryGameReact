@@ -1,0 +1,31 @@
+.tile{
+    background: #E8E1CB;
+    height: 100%;
+    border-radius: 35px;
+    box-shadow: 15px 15px #CCC6A9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tile .inside{
+    /* background: #75A1C2; */
+    height: 85%;
+    width: 90%;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.tile img {
+    width: 200px;
+    height: auto;
+}
+
+.tile img:hover {
+    cursor: pointer;
+}
+
